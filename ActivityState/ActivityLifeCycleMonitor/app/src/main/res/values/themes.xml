@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.ActivityLifeCycleMonitor" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <!-- Customize your theme here -->
+        <!-- For example, you can set the primary color -->
+        <item name="colorPrimary">@color/cardview_shadow_end_color</item>
+        <item name="colorPrimaryDark">@color/cardview_shadow_start_color</item>
+    </style>
+
+</resources>
+
